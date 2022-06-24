@@ -16,10 +16,15 @@ console.log(friends);
 
 // ### EXERCÍCIO 4 ###
 
+friends.push("Erica Bing", "Jack Bing")
+console.log(friends)
+
+// ### EXERCÍCIO 5 ###
+
 friends.shift();
 console.log(friends);
 
-// ### EXERCÍCIO 5 ###
+// ### EXERCÍCIO 6 ###
 
 let numbers = [7,5,6,3,8,9,2,1,4];
 console.log(numbers);
